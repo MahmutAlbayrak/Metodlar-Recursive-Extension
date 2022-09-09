@@ -1,0 +1,15 @@
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\Metodlar-Recursive-Extension\bin\Debug\net6.0\Metodlar-Recursive-Extension.exe
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\Metodlar-Recursive-Extension\bin\Debug\net6.0\Metodlar-Recursive-Extension.deps.json
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\Metodlar-Recursive-Extension\bin\Debug\net6.0\Metodlar-Recursive-Extension.runtimeconfig.json
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\Metodlar-Recursive-Extension\bin\Debug\net6.0\Metodlar-Recursive-Extension.dll
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\Metodlar-Recursive-Extension\bin\Debug\net6.0\Metodlar-Recursive-Extension.pdb
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\Metodlar-Recursive-Extension\obj\Debug\net6.0\Metodlar-Recursive-Extension.csproj.AssemblyReference.cache
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\Metodlar-Recursive-Extension\obj\Debug\net6.0\Metodlar-Recursive-Extension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\Metodlar-Recursive-Extension\obj\Debug\net6.0\Metodlar-Recursive-Extension.AssemblyInfoInputs.cache
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\Metodlar-Recursive-Extension\obj\Debug\net6.0\Metodlar-Recursive-Extension.AssemblyInfo.cs
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\Metodlar-Recursive-Extension\obj\Debug\net6.0\Metodlar-Recursive-Extension.csproj.CoreCompileInputs.cache
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\Metodlar-Recursive-Extension\obj\Debug\net6.0\Metodlar-Recursive-Extension.dll
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\Metodlar-Recursive-Extension\obj\Debug\net6.0\refint\Metodlar-Recursive-Extension.dll
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\Metodlar-Recursive-Extension\obj\Debug\net6.0\Metodlar-Recursive-Extension.pdb
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\Metodlar-Recursive-Extension\obj\Debug\net6.0\Metodlar-Recursive-Extension.genruntimeconfig.cache
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\Metodlar-Recursive-Extension\obj\Debug\net6.0\ref\Metodlar-Recursive-Extension.dll
